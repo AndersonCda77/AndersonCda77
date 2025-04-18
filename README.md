@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello World ! - Anderson - 'Brocai por nós!' ♻️
+[![LinkedIn](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.linkedin.com/in/anderson-silva-a67245191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
-<!--
-**AndersonCda77/AndersonCda77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AndersonCda77 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonCda77&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## Ferramentas que uso é aqui ! 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:  inline_block"><br>
+   <img align= "center" alt=html5 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img align= "center" alt=html5 src="https://img.shields.io/badge/Automacao-00000F?style=for-the-badge&logo=Automacao&logoColor=white" /><img align= "center" alt=html5 src="https://img.shields.io/badge/Energia_Sustentavel-217346?style=for-the-badge&logo=microsoft-Energia_Sustentavel&logoColor=white" /><img align= "center" alt=html5 src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/><img align= "center" alt=html5 src= "https://img.shields.io/badge/Climatizaco_de_Ambiente-3776AB?style=for-the-badge&logo=Climatizacao_de_Ambiente&logoColor=white" /> </div><br>
+
+   "Analista de Négocios Sustentáveis, Através de Dados e Inteligencia Artificial!" "PUC - SP"
+
+## Orçamentos e Implementação de Softwares para Indústria - Eletricidade e Alta Tensão:💻⚡
+- [Contato Profisional: 📳](https://wa.me/5511993015402)
